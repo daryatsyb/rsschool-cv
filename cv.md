@@ -8,7 +8,7 @@ Beginer JS/Front-end developer
 **Phone:**+48 792597951\
 **E-mail:** cyburevkina96@mail.ru\
 **Discord:** daryatsyb\
-**Telegram:** [Darya_Tsybureukina](https://t.me/Darya_Tsybureukina)\
+**Telegram:** [Darya_Tsybureukina](https://t.me/Darya_Tsybureukina)
 
 ### About me
 I first became acquainted with development in my second year at university, when I was studying to be an economist. Then I developed my first simple website. Since then I graduated and have been working in my profession for 2 years, but the thought of development did not leave me all these years. That's why I'm here on the rs.school course.
