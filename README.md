@@ -1,2 +1,1 @@
-# rsschool-cv
-## https://daryatsyb.github.io/rsschool-cv/cv
+# https://daryatsyb.github.io/rsschool-cv
